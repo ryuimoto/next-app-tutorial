@@ -8,7 +8,7 @@ export default function ProductsList(){
                 <h2 className={styles.title}>商品一覧</h2>
                 <ul>
                     <li>
-                        <Link href="/products/smartphone">
+                        <Link href="/products/smartPhone">
                             スマートフォン
                         </Link>
                     </li>
@@ -19,7 +19,7 @@ export default function ProductsList(){
                         </Link>
                     </li>
                     <li>
-                        <Link href="/products/headphone">
+                        <Link href="/products/headPhone">
                             ヘッドフォン
                         </Link>
                     </li>
